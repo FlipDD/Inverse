@@ -1,22 +1,22 @@
 Shoot the boids!
 
-Filipe Ribeiro
-Pedro Alcoforado
-Diogo Dias
-Jorge Sousa
+Filipe Ribeiro  
+Pedro Alcoforado  
+Diogo Dias  
+Jorge Sousa 
 
-Filipe Ribeiro
+Filipe Ribeiro  
   Inverse kinematics arm
   Game of life background
 
-Pedro Alcoforado 
+Pedro Alcoforado   
   Boids
   Game of life background
   
-Diogo Dias
+Diogo Dias  
   Bugfixing/improvements
   
-Jorge Sousa
+Jorge Sousa 
   Report
   
   This work took 3 classes to complete, the first class being dedicated to planning and starting the project, the second stricly to work and the third to complete and get the different parts together (IK, GoF and Boids).
