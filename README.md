@@ -16,7 +16,7 @@ Pedro Alcoforado
 Diogo Dias  
   Bugfixing/improvements
   
-Jorge Sousa 
+Jorge Sousa   
   Report
   
   This work took 3 classes to complete, the first class being dedicated to planning and starting the project, the second stricly to work and the third to complete and get the different parts together (IK, GoF and Boids).
