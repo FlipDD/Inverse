@@ -1,13 +1,13 @@
 GDD – Shoot the boids!
 
  
-Diogo Dias – responsible for bug fixing and improving the Boids code, because the way they were dying was inconsistent, resulting in three to four getting destroyed.
+Diogo Dias (50037714)– responsible for bug fixing and improving the Boids code, because the way they were dying was inconsistent, resulting in three to four getting destroyed.
  
-Filipe Ribeiro – besides being the leader and distributing the tasks for each person in the group he also was responsible for creating an arm using Inverse Kinematics and helped using the Game of Life as a background along with Pedro Alcoforado. 
+Filipe Ribeiro (50037186)– besides being the leader and distributing the tasks for each person in the group he also was responsible for creating an arm using Inverse Kinematics and helped using the Game of Life as a background along with Pedro Alcoforado. 
  
-Jorge Sousa – responsible for the report on everything that everyone did and helped Filipe fixing the way the arm was behaving and on the direction the bullets were taking when shot.
+Jorge Sousa (50037152)– responsible for the report on everything that everyone did and helped Filipe fixing the way the arm was behaving and on the direction the bullets were taking when shot.
  
-Pedro Alcoforado – responsible for creating the Boids as the flying birds and helping Filipe on using the Game of Life as a background.
+Pedro Alcoforado (50037157)– responsible for creating the Boids as the flying birds and helping Filipe on using the Game of Life as a background.
  
  
  
