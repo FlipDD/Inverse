@@ -1,4 +1,5 @@
-GDD – Shoot the boids!
+## Shoot the boids! - Weird project #30514
+### Inverse Kinematics, Boids and Game of Life
 
  
 Diogo Dias (50037714)– responsible for bug fixing and improving the Boids code, because the way they were dying was inconsistent, resulting in three to four getting destroyed.
